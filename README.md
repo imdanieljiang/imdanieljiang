@@ -10,7 +10,8 @@
     <li>🤓 &nbsp;I'm currently learning as much as I can to become a well-rounded Software Engineer before I graduate</li>
 </ul>
 
-<!--CONNECTIONS--><!--
+<!--CONNECTIONS-->
+<!--
 <h3 align="center">
     Socials
 </h3>
@@ -19,16 +20,19 @@
     <a href="">
         <img height="25" src="https://user-images.githubusercontent.com/83325543/142747917-bf60018b-dd38-4c06-83fc-6be20d69439a.png"
     </a>
-</p>-->
+</p>
+-->
 
-<!--LANGUAGES AND TOOLS--><!--
+<!--LANGUAGES AND TOOLS-->
+<!--
 <h3 align="center">
     Languages and Tools
 </h3>
 
 <p align="center">
     <img height="40" href="javascript:void(0)" src="https://user-images.githubusercontent.com/83325543/142748072-2e650025-baaa-4f55-8610-d5d63bdfcb0e.png"/>
-</p>-->
+</p>
+-->
 
 <!--GITHUB STATS-->
 <h3 align="center">
