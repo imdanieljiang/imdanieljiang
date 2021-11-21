@@ -15,4 +15,4 @@
 
 ---
 
-<img align="center" alt="imdanieljiang's GitHub Stats" src="http://github-readme-stats.vercel.app/api?username=imdanieljiang&show_icons=true&hide_border=true"/>
+<img align="middle" alt="imdanieljiang's GitHub Stats" src="http://github-readme-stats.vercel.app/api?username=imdanieljiang&show_icons=true&hide_border=true"/>
