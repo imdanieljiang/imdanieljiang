@@ -64,14 +64,14 @@
     <a href="https://github.com/austnaa/AmazingTriviaMaze">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austnaa&repo=AmazingTriviaMaze&hide_border=true&theme=dracula"/>
     </a>
+    <a href="https://github.com/imdanieljiang/IntelligentVoiceAssistant">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imdanieljiang&repo=IntelligentVoiceAssistant&hide_border=true&theme=dracula"/>
+    </a>
     <a href="https://github.com/huskiicoder/HOWLR-Client-Side">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huskiicoder&repo=HOWLR-Client-Side&hide_border=true&theme=dracula"/>
     </a>
     <a href="https://github.com/huskiicoder/HOWLR-Server-Side">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huskiicoder&repo=HOWLR-Server-Side&hide_border=true&theme=dracula"/>
-    </a>
-    <a href="https://github.com/imdanieljiang/IntelligentVoiceAssistant">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imdanieljiang&repo=IntelligentVoiceAssistant&hide_border=true&theme=dracula"/>
     </a>
 </p>
 
