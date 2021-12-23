@@ -36,7 +36,7 @@
 
 <!--GITHUB STATS-->
 <h3 align="center">
-    My GitHub Stats
+    GitHub Stats
 </h3>
 
 <p align="center">
@@ -45,7 +45,7 @@
 
 <!--TOP LANGUAGES-->
 <h3 align="center">
-    My Top Languages
+    Top Languages
 </h3>
 
 <p align="center">
