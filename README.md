@@ -54,18 +54,25 @@
 
 <!--PROJECTS-->
 <h3 align="center">
-    My Projects
+    Individual Projects
 </h3>
 
 <p align="center">
     <a href="https://github.com/imdanieljiang/PythonBot">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imdanieljiang&repo=PythonBot&hide_border=true&theme=dracula"/>
     </a>
+    <a href="https://github.com/imdanieljiang/IntelligentVoiceAssistant">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imdanieljiang&repo=IntelligentVoiceAssistant&hide_border=true&theme=dracula"/>
+</p>
+
+<h3 align="center">
+    Group Projects
+</h3>
+
+<p align="center">
     <a href="https://github.com/austnaa/AmazingTriviaMaze">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austnaa&repo=AmazingTriviaMaze&hide_border=true&theme=dracula"/>
     </a>
-    <a href="https://github.com/imdanieljiang/IntelligentVoiceAssistant">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imdanieljiang&repo=IntelligentVoiceAssistant&hide_border=true&theme=dracula"/>
     </a>
     <a href="https://github.com/huskiicoder/HOWLR-Client-Side">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huskiicoder&repo=HOWLR-Client-Side&hide_border=true&theme=dracula"/>
