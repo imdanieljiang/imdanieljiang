@@ -11,17 +11,16 @@
 </ul>
 
 <!--CONNECTIONS-->
-<!--
+
 <h3 align="center">
     Socials
 </h3>
-
 <p align="center">
-    <a href="">
-        <img height="25" src="https://user-images.githubusercontent.com/83325543/142747917-bf60018b-dd38-4c06-83fc-6be20d69439a.png"
+    <a href="https://www.linkedin.com/in/imdanieljiang/">
+        <img height="40" src="https://user-images.githubusercontent.com/83325543/148614228-01f1771c-3dd3-4e2f-8c86-d3e486b4d4d7.png"
     </a>
 </p>
--->
+<!--https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg-->
 
 <!--LANGUAGES AND TOOLS-->
 <!--
