@@ -1,6 +1,6 @@
 <!--INTRODUCTION-->
 <h2 align="center">
-    Hi 👋🏻, I'm Daniel 🥳
+    Hi there 👋🏻, I'm Daniel 🥳
 </h2>
 
 <ul>
