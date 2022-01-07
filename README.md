@@ -64,6 +64,9 @@
     <a href="https://github.com/imdanieljiang/Glitter">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imdanieljiang&repo=Glitter&hide_border=true&theme=dracula"/>
     </a>
+    <a href="https://github.com/imdanieljiang/Eggcellent">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imdanieljiang&repo=Eggcellent&hide_border=true&theme=dracula"/>
+    </a>
     <a href="https://github.com/imdanieljiang/IntelligentVoiceAssistant">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imdanieljiang&repo=IntelligentVoiceAssistant&hide_border=true&theme=dracula"/>
     </a>
