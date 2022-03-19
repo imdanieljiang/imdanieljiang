@@ -63,6 +63,12 @@
     <a href="https://github.com/imdanieljiang/Glitter">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imdanieljiang&repo=Glitter&hide_border=true&theme=dracula"/>
     </a>
+    <a href="https://github.com/imdanieljiang/iOSTwitterClone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imdanieljiang&repo=iOSTwitterClone&hide_border=true&theme=dracula"/>
+    </a>
+    <a href="https://github.com/imdanieljiang/FlixMovieApp">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imdanieljiang&repo=FlixMovieApp&hide_border=true&theme=dracula"/>
+    </a>
     <a href="https://github.com/imdanieljiang/Eggcellent">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imdanieljiang&repo=Eggcellent&hide_border=true&theme=dracula"/>
     </a>
@@ -76,6 +82,9 @@
 </h3>
 
 <p align="center">
+    <a href="https://github.com/apotafiy/sigma-grind">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apotafiy&repo=sigma-grind&hide_border=true&theme=dracula"/>
+    </a>
     <a href="https://github.com/austnaa/AmazingTriviaMaze">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austnaa&repo=AmazingTriviaMaze&hide_border=true&theme=dracula"/>
     </a>
