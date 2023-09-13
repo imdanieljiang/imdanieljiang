@@ -4,13 +4,13 @@
 </h2>
 
 <ul>
-    <li>👨🏻‍🎓 &nbsp;I'm currently a Senior studying Computer Science at the University of Washington</li>
-    <li>🤓 &nbsp;I'm currently learning as much as I can to become a well-rounded Software Engineer before I graduate</li>
-    <li>👨🏻‍💻 &nbsp;I'm currently interested in mobile development (iOS, Android), fullstack web development, and computer vision</li>
+    <li>👨🏻‍🎓 &nbsp;I'm a laid-off Software Engineer (Backend) from Zoom and am currently looking for a full-time or contract position</li>
+    <li>🤓 &nbsp;I have about 1 YOE so I am interested in New Grad roles or Entry Level/Associate Software Engineer rolese</li>
+    <li>👨🏻‍💻 &nbsp;I'm interested in frontend, backend, full stack roles as a generalist and have experience with REST APIs and integrations from Zoom</li>
 </ul>
 
 <!--CONNECTIONS-->
-
+<!--👨🏻‍🎓🤓👨🏻‍💻
 <h3 align="center">
     Socials
 </h3>
@@ -18,7 +18,7 @@
     <a href="https://www.linkedin.com/in/imdanieljiang">
         <img height="40" src="https://user-images.githubusercontent.com/83325543/148614228-01f1771c-3dd3-4e2f-8c86-d3e486b4d4d7.png"
     </a>
-</p>
+</p> -->
 <!--https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg-->
 
 <!--LANGUAGES AND TOOLS-->
