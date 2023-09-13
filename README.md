@@ -4,9 +4,9 @@
 </h2>
 
 <ul>
-    <li>👨🏻‍🎓 &nbsp;I'm a laid-off Software Engineer (Backend) from Zoom and am currently looking for a full-time or contract position</li>
-    <li>🤓 &nbsp;I have about 1 YOE so I am interested in New Grad roles or Entry Level/Associate Software Engineer rolese</li>
-    <li>👨🏻‍💻 &nbsp;I'm interested in frontend, backend, full stack roles as a generalist and have experience with REST APIs and integrations from Zoom</li>
+    <li> &nbsp;I'm a laid-off Software Engineer (Backend) from Zoom and am currently looking for a full-time or contract position</li>
+    <li> &nbsp;I have about 1 YOE so I am interested in New Grad roles or Entry Level/Associate Software Engineer rolese</li>
+    <li> &nbsp;I'm interested in frontend, backend, full stack roles as a generalist and have experience with REST APIs and integrations from Zoom</li>
 </ul>
 
 <!--CONNECTIONS-->
