@@ -15,7 +15,7 @@
     Socials
 </h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/imdanieljiang">
+    <a href=""> LinkedIn URL goes here
         <img height="40" src="https://user-images.githubusercontent.com/83325543/148614228-01f1771c-3dd3-4e2f-8c86-d3e486b4d4d7.png"
     </a>
 </p> -->
